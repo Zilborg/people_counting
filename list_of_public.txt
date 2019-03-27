@@ -1,0 +1,2 @@
+http://85.234.14.10:8084/mjpg/1/video.mjpg
+http://14.160.87.118:85/cgi-bin/mjpeg\?resolution\=1280x960\&quality\=1
